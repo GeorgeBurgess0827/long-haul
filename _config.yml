@@ -2,7 +2,7 @@ title: George Burgess
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url:
-baseurl: ""
+baseurl: "https://georgeburgess0827.github.io/long-haul/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
