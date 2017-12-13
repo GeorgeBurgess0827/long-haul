@@ -16,8 +16,6 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Portfolio
-   url: https://georgeburgess.carbonmade.com/
  - title: Contact
    url: /contact
 
